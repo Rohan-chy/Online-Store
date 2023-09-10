@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 It is the project of online store created using react.js and tailwind css.
 Datas are fetched from the api named "fake api store".
-The project is simple and basic containing home page,search page and product details page.
+The project is simple and basic containing home page,search page and product details page with the search functionality.
 # Online-Store
 =======
 # Getting Started with Create React App
